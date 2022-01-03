@@ -1,14 +1,14 @@
 
 
-# apoisfjpoaiwejfgpoawjgv;iearjgpojweapghjawepogiuhjawepgoijawepgo
+# Personal Library Tracker
 
 ## Description 
 
-oajerphpewoigjoiweajgpo iaewjgp ojaweoigjoeraihjpawejpoajsepf osiofpaosijf opisdjfap oajpoidjfpoa sjfpoi jasdpofj usdhfiouhapenvoij9piwejabnjdopvija[ efjvpaos jfpoiajsfopija\
+This program can be used to track read, currently reading, and books to read so users can conquer their reading lists!
 
 
 ## Table of Contents (Optional)
-Installation,Credits,License,Badges
+Installation,Usage,License
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
@@ -20,32 +20,30 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-sdiofjpoaisdjf;ka jsdfljh epiujpaowiejfoajspvo;aeijwf
+The program can be accessed via URL at jecoc0/personal-library-tracker
 
 
 ## Usage 
 
-oisjfpaiosd
+This program should be used to store books locally so users can track their reading list.  Any changes will save locally and shelves can be changed as they move through the book flow.
 
 
 ## Contributers
 
-\ajepfijawpeo gjpaoejhopierjgpoiajesfpojsaodfi
+Bryce Stockman (github: brycestockman)
+
+
+## Questions?
+
+Jessica Groves
+
+[Find me on GitHub] (https://github.com/jecoc0)
+
+Reach out to me via email at <sevorg.jess@gmail.com>
 
 
 ## License
 
 MIT
-
-
-## Questions?
-JESIOFJPSOIJPOIEJF
-
-
-find me on [github] (https://github.com/jecoc0)
-
-
-reach out to me via email at sevorg.jess@gmail.com
-
 
     
